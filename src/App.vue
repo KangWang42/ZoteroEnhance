@@ -8,6 +8,7 @@ import WechatIcons from "./components/wechaticons.vue";
 import { NButtonGroup } from "naive-ui";
 import totop from "./components/totop.vue";
 import menulist from "./components/menulist.vue";
+import stylebutton from "./components/stylebutton.vue";
 
 
 
@@ -35,10 +36,9 @@ const navigate = () => {
 </script>
 
 <template>
-  <div>
+  <div >
     <totop />
     <menulist class="mb-4"/>
- 
     <header>
       <WechatIcons />
       <n-space class="mb-12   tagslist">
@@ -57,6 +57,7 @@ const navigate = () => {
     </header>
     <main>
       <CardsFile :cards="filteredCards" />
+      <stylebutton />
     </main>
   </div>
 </template>
@@ -64,6 +65,5 @@ const navigate = () => {
 
 
 <style scoped>
-
 
 </style>
