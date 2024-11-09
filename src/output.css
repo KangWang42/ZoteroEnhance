@@ -611,6 +611,10 @@ video {
   margin-bottom: 1rem;
 }
 
+.mb-10 {
+  margin-bottom: 2.5rem;
+}
+
 .inline-block {
   display: inline-block;
 }
@@ -761,12 +765,6 @@ video {
 
 .group:hover .group-hover\:block {
   display: block;
-}
-
-@media (min-width: 640px) {
-  .sm\:justify-around {
-    justify-content: space-around;
-  }
 }
 
 @media (min-width: 768px) {

@@ -6,6 +6,11 @@ import { ref, computed, provide } from "vue";
 import { NSpace } from "naive-ui";
 import WechatIcons from "./components/wechaticons.vue";
 import { NButtonGroup } from "naive-ui";
+import totop from "./components/totop.vue";
+import menulist from "./components/menulist.vue";
+
+
+
 
 // 唯一标签列表
 const uniqueTags = Array.from(new Set(cards.flatMap((card) => card.tags)));
@@ -31,6 +36,9 @@ const navigate = () => {
 
 <template>
   <div>
+    <totop />
+    <menulist class="mb-4"/>
+ 
     <header>
       <WechatIcons />
       <n-space class="mb-12   tagslist">
