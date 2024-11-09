@@ -8,9 +8,6 @@ import WechatIcons from "./components/wechaticons.vue";
 import { NButtonGroup } from "naive-ui";
 import totop from "./components/totop.vue";
 import menulist from "./components/menulist.vue";
-import stylebutton from "./components/stylebutton.vue";
-
-
 
 
 // 唯一标签列表
@@ -57,7 +54,6 @@ const navigate = () => {
     </header>
     <main>
       <CardsFile :cards="filteredCards" />
-      <stylebutton />
     </main>
   </div>
 </template>
