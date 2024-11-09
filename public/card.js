@@ -5,7 +5,7 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180846052.png",
     link: "https://alist.wk8686.top/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/02%20zotero_%E5%90%84%E7%89%88%E6%9C%AC%E5%AE%89%E8%A3%85%E5%8C%85",
     title_link: "https://github.com/l0o0/translators_CN",
-    tags:["辅助阅读","辅助笔记","软件美化","其它内容"]
+    tags:["其它内容"]
   },
   {
     title: "搜索引擎合集",
@@ -127,7 +127,7 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180829659.png",
     link: "http://wk8686.top/archives/zoteroepi60",
     title_link: "https://github.com/018/zotcard",
-    tags:["辅助笔记","软件美化"]
+    tags:["辅助笔记"]
   },
   {
     title: "zoplicate",
