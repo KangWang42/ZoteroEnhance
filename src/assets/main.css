@@ -8,6 +8,7 @@
   font-weight: normal;
 }
 
+
 @media (max-width: 768px) { 
   #app {
     margin: 0 auto;
@@ -15,6 +16,11 @@
     width: 90%;
     font-weight: normal;
     margin-top: 10%;
+  }
+  div header .tagslist{
+    display: flex;  
+    justify-content: center !important;;
+  
   }
 }
 

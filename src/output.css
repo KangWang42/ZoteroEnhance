@@ -594,10 +594,6 @@ video {
   top: 1rem;
 }
 
-.top-5 {
-  top: 1.25rem;
-}
-
 .z-10 {
   z-index: 10;
 }
@@ -768,9 +764,8 @@ video {
 }
 
 @media (min-width: 640px) {
-  .sm\:px-0 {
-    padding-left: 0px;
-    padding-right: 0px;
+  .sm\:justify-around {
+    justify-content: space-around;
   }
 }
 

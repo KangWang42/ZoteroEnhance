@@ -33,7 +33,7 @@ const navigate = () => {
   <div>
     <header>
       <WechatIcons />
-      <n-space class="mb-12">
+      <n-space class="mb-12   tagslist">
         <n-button type="info" @click="navigate('https://wk8686.top')"
           >返回主页</n-button
         >
@@ -56,5 +56,6 @@ const navigate = () => {
 
 
 <style scoped>
+
 
 </style>
