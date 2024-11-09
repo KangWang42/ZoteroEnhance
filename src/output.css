@@ -562,10 +562,6 @@ video {
   position: absolute;
 }
 
-.relative {
-  position: relative;
-}
-
 .right-0 {
   right: 0px;
 }
@@ -596,6 +592,10 @@ video {
 
 .top-4 {
   top: 1rem;
+}
+
+.top-5 {
+  top: 1.25rem;
 }
 
 .z-10 {
@@ -751,10 +751,6 @@ video {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.\[onUpdate\:value\] {
-  on-update: value;
-}
-
 .hover\:scale-125:hover {
   --tw-scale-x: 1.25;
   --tw-scale-y: 1.25;
@@ -772,8 +768,9 @@ video {
 }
 
 @media (min-width: 640px) {
-  .sm\:hidden {
-    display: none;
+  .sm\:px-0 {
+    padding-left: 0px;
+    padding-right: 0px;
   }
 }
 

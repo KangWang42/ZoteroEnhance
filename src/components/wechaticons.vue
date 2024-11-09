@@ -1,5 +1,5 @@
 <template>
-  <div class="absolute right-0 w-1/3 iconall">
+  <div class="absolute right-0 w-1/3 iconall top-2">
   
     <span>
     <a href="https://github.com/KangWang42/zotero_notecss" target="_blank">

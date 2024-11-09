@@ -8,6 +8,16 @@
   font-weight: normal;
 }
 
+@media (max-width: 768px) { 
+  #app {
+    margin: 0 auto;
+    padding: 0rem;
+    width: 90%;
+    font-weight: normal;
+    margin-top: 10%;
+  }
+}
+
 a,
 .green {
   text-decoration: none;
