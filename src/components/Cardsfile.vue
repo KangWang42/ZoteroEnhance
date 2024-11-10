@@ -9,14 +9,15 @@ const filteredCards = inject("filteredCards"); // 确保注入正确
 function handleClick(link) {
   window.location.href = link; // 操作链接的函数
 }
+
 </script>
 
 <template>
-  <div class="flex flex-wrap -mx-2 gap-y-20 gap-x-10 justify-around cardwrap">
+  <div class="flex flex-wrap  gap-y-20 gap-x-1 justify-around cardwrap  ">
     <div
       v-for="card in filteredCards"
       :key="card.id"
-      class="px-10 w-full md:w-96 card-list"
+      class="rounded-2xl card-list w-1/4 min-w-80 "
     >
       <n-card :title="card.title" class="hover:shadow-2xl">
         <template #default>

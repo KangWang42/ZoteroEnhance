@@ -20,7 +20,7 @@ const filteredCards = computed(() => {
   return cards.filter((card) => card.tags.includes(selectedTag.value));
 });
 
-// 提供filteredCards给下级组件
+
 provide("filteredCards", filteredCards);
 
 function handleSelectTag(tag) {
