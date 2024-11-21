@@ -11,7 +11,7 @@ export const cards = [
   {
     title: "搜索引擎合集",
     details: "zotero的搜索引擎可以在多网页快速检索文献或条目，zotero7搜索引擎集成到侧栏体验更佳",
-    image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410172200842.png",
+    image: "pic/engine.png",
     link: "http://wk8686.top/archives/zoteroepi69",
     title_link: "https://github.com/l0o0/translators_CN",
     downloadlink :"https://alist.wk8686.top/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/03%20zotero-engine%E5%90%88%E9%9B%86",
@@ -85,7 +85,7 @@ export const cards = [
   {
     title: "tara",
     details: "zotero备份插件，换机需要",
-    image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180830314.png",
+    image: "pic/202410180832724.png",
     link: "http://wk8686.top/archives/zoteroepi52",
     title_link: "https://github.com/l0o0/tara",
     downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/tara%40linxzh.com.xpi?sign=HrJNOIqIUnwHg6YOfJHuyg2_aYJLG08EK4R87ETw2K8=:0",
@@ -94,7 +94,7 @@ export const cards = [
   {
     title: "obsidian-zotlit",
     details: "zotero-obsidian联动插件",
-    image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180837325.png",
+    image: "pic/202410180834925.svg",
     link: "http://wk8686.top/archives/zoteroepi88",
     title_link: "https://github.com/PKM-er/obsidian-zotlit",
     downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/zotero-obsidian-note%40aidenlx.top.xpi?sign=yyPFhJnmmsAB5yJC7m3Hh-dF5OLmDU4K_fKZNqacIes=:0",
@@ -103,7 +103,7 @@ export const cards = [
   {
     title: "Chartero",
     details: "花里胡哨可以各种可视化zotero数据插件",
-    image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180834925.svg",
+    image: "pic/chartero.svg",
     link: "http://wk8686.top/archives/zoteroepi58",
     title_link: "https://github.com/volatile-static/Chartero",
     downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/chartero%40volatile.static.xpi?sign=2si5iJpwa_s9R_tn1ahMOk1Z5ltzjwY1kGY-Pgt8ypw=:0",
@@ -121,7 +121,7 @@ export const cards = [
   {
     title: "zotero-actions-tags",
     details: "标签管理插件，同时可以自定义脚本执行指令",
-    image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180831210.png",
+    image: "public\\pic\\1732203836904.png",
     link: "http://wk8686.top/archives/zoteroepi91",
     title_link: "https://github.com/windingwind/zotero-actions-tags",
     downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/zoterotag%40euclpts.com.xpi?sign=2GeJUufAj1L3WtquW5v3g0TYLA6nY3b-TpvJ9_9b1dk=:0",
@@ -130,7 +130,7 @@ export const cards = [
   {
     title: "zotero-better-notes",
     details: "改进zotero官方的笔记功能，实现双链和笔记模板等",
-    image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180836164.png",
+    image: "pic/betternote.png",
     link: "http://wk8686.top/archives/zoteroepi87",
     title_link: "https://github.com/MuiseDestiny/zotero-better-notes",
     downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/Knowledge4Zotero%40windingwind.com.xpi?sign=qxEtSIZmUbSKb_24r1r6-JTgRbMpuiDT6XfVmWsmxl4=:0",
@@ -140,7 +140,7 @@ export const cards = [
   {
     title: "zotcard",
     details: "卡片思维管理zotero笔记，喜欢零零散散笔记的人可以装",
-    image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180829659.png",
+    image: "public\\pic\\202410180836164.png",
     link: "http://wk8686.top/archives/zoteroepi60",
     title_link: "https://github.com/018/zotcard",
     downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/zotcard%40zotero.org.xpi?sign=N01Orn9wH46ENYQWB9Q9MvNezHfKBkbbrKIWiEjEmAM=:0",
@@ -149,7 +149,7 @@ export const cards = [
   {
     title: "zoplicate",
     details: "zotero管理重复条目的插件，自动合并等",
-    image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180832724.png",
+    image: "pic/1732204301689.png",
     link: "http://wk8686.top/archives/zoteroepi91",
     title_link: "https://github.com/ChenglongMa/zoplicate",
     downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/zoplicate%40chenglongma.com.xpi?sign=cybgmJU6VsJWnAByR-tEadi02V18Fgdp5mqa2eFMemM=:0",
