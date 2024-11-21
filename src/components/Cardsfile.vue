@@ -18,9 +18,9 @@ function handleClick(link) {
     <div
       v-for="card in filteredCards"
       :key="card.id"
-      class="rounded-2xl card-list w-1/4 min-w-80 "
+      class="flex rounded-2xl card-list w-1/4  min-w-80  "
     >
-      <n-card :title="card.title" class="hover:shadow-2xl">
+      <n-card :title="card.title" class="hover:shadow-2xl ">
         <template #default>
           <img
             :src="card.image"
@@ -67,15 +67,19 @@ function handleClick(link) {
   padding-right: 0.5rem;
 }
 div.n-card.n-card--bordered{
-border-radius: 10px;
-  color: #4B252C;
+border-radius: 15px;
 }
-
-
 
 .card-list:hover {
   scale: 1.1;
-  animation-duration: 800ms;
+ transition-duration: 800ms;
+
+}
+
+.card-list{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+  color: #4B252C;
 }
 
 @media (max-width: 768px) {
