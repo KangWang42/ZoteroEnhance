@@ -2,7 +2,7 @@
   <div class="absolute right-0 w-1/3 iconall top-2">
   
     <span>
-    <a href="https://github.com/KangWang42/zotero_notecss" target="_blank">
+    <a href="https://github.com/KangWang42/01-zotplug" target="_blank">
       <img
         src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
         alt="GitHub"

@@ -1,29 +1,22 @@
-# 01 zotplug
+# zotero插件收集
 
-This template should help get you started developing with Vue 3 in Vite.
+## 包含内容
 
-## Recommended IDE Setup
+[网站链接](https://test.wk8686.top/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- zotero常用插件
+- zotero常用插件及收藏库
+- 快速下载
+- 教程快速跳转
 
-## Customize configuration
+## 网站截图
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+![网站截图](webcontent.png)
 
-## Project Setup
+## 其它链接
 
-```sh
-npm install
-```
+[我的博客](https://www.wk8686.top)
 
-### Compile and Hot-Reload for Development
+[zotero笔记主题](https://zottheme.wk8686.top/)
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+![截图示意](pic\1732192044580.png)
