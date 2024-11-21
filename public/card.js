@@ -154,6 +154,15 @@ export const cards = [
     title_link: "https://github.com/ChenglongMa/zoplicate",
     downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/zoplicate%40chenglongma.com.xpi?sign=cybgmJU6VsJWnAByR-tEadi02V18Fgdp5mqa2eFMemM=:0",
     tags:["功能提升","其它内容"]
+  },
+  {
+    title: "bionic-for-zotero",
+    details: "zotero阅读，可以添加重点阅读块，让阅读效果更好",
+    image: "icon/1732189479208.png",
+    link: "",
+    title_link: "https://github.com/windingwind/bionic-for-zotero/releases",
+    downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/bionicReader%40euclpts.com.xpi?sign=jw1_NT_S3DMaJE27ZYyIQ_oWwqPj0OdYckEjJpGjZLY=:0",
+    tags:["软件美化","其它内容"]
   }
   
   
