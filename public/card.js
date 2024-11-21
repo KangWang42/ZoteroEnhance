@@ -121,7 +121,7 @@ export const cards = [
   {
     title: "zotero-actions-tags",
     details: "标签管理插件，同时可以自定义脚本执行指令",
-    image: "public\\pic\\1732203836904.png",
+    image: "pic/1732203836904.png",
     link: "http://wk8686.top/archives/zoteroepi91",
     title_link: "https://github.com/windingwind/zotero-actions-tags",
     downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/zoterotag%40euclpts.com.xpi?sign=2GeJUufAj1L3WtquW5v3g0TYLA6nY3b-TpvJ9_9b1dk=:0",
@@ -140,7 +140,7 @@ export const cards = [
   {
     title: "zotcard",
     details: "卡片思维管理zotero笔记，喜欢零零散散笔记的人可以装",
-    image: "public\\pic\\202410180836164.png",
+    image: "pic/202410180836164.png",
     link: "http://wk8686.top/archives/zoteroepi60",
     title_link: "https://github.com/018/zotcard",
     downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/zotcard%40zotero.org.xpi?sign=N01Orn9wH46ENYQWB9Q9MvNezHfKBkbbrKIWiEjEmAM=:0",
