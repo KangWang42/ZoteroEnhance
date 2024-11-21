@@ -5,6 +5,7 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180846052.png",
     link: "https://alist.wk8686.top/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/02%20zotero_%E5%90%84%E7%89%88%E6%9C%AC%E5%AE%89%E8%A3%85%E5%8C%85",
     title_link: "https://github.com/l0o0/translators_CN",
+    downloadlink:"https://alist.wk8686.top/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/02%20zotero_%E5%90%84%E7%89%88%E6%9C%AC%E5%AE%89%E8%A3%85%E5%8C%85",
     tags:["其它内容"]
   },
   {
@@ -13,6 +14,7 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410172200842.png",
     link: "http://wk8686.top/archives/zoteroepi69",
     title_link: "https://github.com/l0o0/translators_CN",
+    downloadlink :"https://alist.wk8686.top/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/03%20zotero-engine%E5%90%88%E9%9B%86",
     tags:["其它内容","功能提升"]
   },
   {
@@ -21,6 +23,7 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410172200842.png",
     link: "http://wk8686.top/archives/zoteroepi8",
     title_link: "https://github.com/MuiseDestiny/zotero-style",
+    downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/zoterostyle%40polygon.org.xpi?sign=LR5_veai-T_6ukXGd2pHrYxJdyhaMsU6VfGPQIBlKr4=:0",
     tags:["辅助阅读","软件美化"]
   },
   {
@@ -29,6 +32,8 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410172212541.svg",
     link: "http://wk8686.top/archives/zoteroepi8",
     title_link: "https://github.com/syt2/zotero-addons",
+    downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/zoteroAddons%40ytshen.com.xpi?sign=2Aii2bxP0bruy9v2IRD7oRbcN2gAthtkgFP8g-7Ad5Y=:0",
+
     tags:["其它内容","功能提升"]
     
   },
@@ -38,6 +43,7 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410172214682.png",
     link: "http://wk8686.top/archives/zoteroepi26",
     title_link: "https://github.com/windingwind/zotero-pdf-translate",
+    downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/zoteropdftranslate%40euclpts.com.xpi?sign=gUI5xjiJMx6_aZ9cH1ONZOqFHBqOL-K_vONlpNgiKY4=:0",
     tags:["辅助阅读","功能提升"]
   },
   {
@@ -46,6 +52,7 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180842582.png",
     link: "http://wk8686.top/archives/zoteroepi2",
     title_link: "https://github.com/l0o0/jasminum",
+    downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/jasminum%40linxzh.com.xpi?sign=5pssC-yVmsJjDukI-HZXBinuds6qWcriE1p8aJwcjaQ=:0",
     tags:["其它内容"]
   },
   {
@@ -54,6 +61,7 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180846052.png",
     link: "http://wk8686.top/archives/zoteroepi28",
     title_link: "https://github.com/MuiseDestiny/zotero-reference",
+    downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/zoteroreference%40polygon.org.xpi?sign=4P6w1XTf2ZgHFrlwIQKrZTcWhcQFdyUoGtclPW6jwes=:0",
     tags:["辅助阅读","其它内容"]
   },
   {
@@ -62,6 +70,7 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180829489.png",
     link: "http://wk8686.top/archives/zoteroepi32",
     title_link: "https://github.com/MuiseDestiny/zotero-citation",
+    downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/zoterocitation%40polygon.org.xpi?sign=-hop9Rnhr1eIyL5fscmGtvZ8qo72OZ4sjv4XcAdkCoE=:0",
     tags:["其它内容"]
   },
   {
@@ -70,6 +79,7 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180829659.png",
     link: "http://wk8686.top/archives/zoteroepi47",
     title_link: "https://github.com/MuiseDestiny/zotero-figure",
+    downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/zoterofigure%40polygon.org.xpi?sign=gKCiy65Z11mcdhBGYobH274VTdNMTX4YD4vXhf-NY-Q=:0",
     tags:["辅助阅读","软件美化"]
   },
   {
@@ -78,6 +88,7 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180830314.png",
     link: "http://wk8686.top/archives/zoteroepi52",
     title_link: "https://github.com/l0o0/tara",
+    downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/tara%40linxzh.com.xpi?sign=HrJNOIqIUnwHg6YOfJHuyg2_aYJLG08EK4R87ETw2K8=:0",
     tags:["其它内容"]
   },
   {
@@ -86,6 +97,7 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180837325.png",
     link: "http://wk8686.top/archives/zoteroepi88",
     title_link: "https://github.com/PKM-er/obsidian-zotlit",
+    downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/zotero-obsidian-note%40aidenlx.top.xpi?sign=yyPFhJnmmsAB5yJC7m3Hh-dF5OLmDU4K_fKZNqacIes=:0",
     tags:["辅助笔记","其它内容"]
   },
   {
@@ -94,6 +106,7 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180834925.svg",
     link: "http://wk8686.top/archives/zoteroepi58",
     title_link: "https://github.com/volatile-static/Chartero",
+    downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/chartero%40volatile.static.xpi?sign=2si5iJpwa_s9R_tn1ahMOk1Z5ltzjwY1kGY-Pgt8ypw=:0",
     tags:["辅助阅读","软件美化"]
   },
   {
@@ -102,6 +115,7 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202411072202353.webp",
     link: "http://wk8686.top/archives/zoteroepi57",
     title_link: "https://github.com/northword/zotero-format-metadata",
+    downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/zotero-format-metadata%40northword.cn.xpi?sign=8iqsE6wwGGf_7dxULkSPad59BoaY-2pjAFn7j6d_k88=:0",
     tags:["其它内容","辅助写作"]
   },
   {
@@ -110,6 +124,7 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180831210.png",
     link: "http://wk8686.top/archives/zoteroepi91",
     title_link: "https://github.com/windingwind/zotero-actions-tags",
+    downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/zoterotag%40euclpts.com.xpi?sign=2GeJUufAj1L3WtquW5v3g0TYLA6nY3b-TpvJ9_9b1dk=:0",
     tags:["功能提升","其它内容"]
   },
   {
@@ -118,6 +133,7 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180836164.png",
     link: "http://wk8686.top/archives/zoteroepi87",
     title_link: "https://github.com/MuiseDestiny/zotero-better-notes",
+    downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/Knowledge4Zotero%40windingwind.com.xpi?sign=qxEtSIZmUbSKb_24r1r6-JTgRbMpuiDT6XfVmWsmxl4=:0",
     tags:["辅助笔记","软件美化"]
 
   },
@@ -127,6 +143,7 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180829659.png",
     link: "http://wk8686.top/archives/zoteroepi60",
     title_link: "https://github.com/018/zotcard",
+    downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/zotcard%40zotero.org.xpi?sign=N01Orn9wH46ENYQWB9Q9MvNezHfKBkbbrKIWiEjEmAM=:0",
     tags:["辅助笔记"]
   },
   {
@@ -135,6 +152,7 @@ export const cards = [
     image: "https://pic-go-42.oss-cn-guangzhou.aliyuncs.com/img/202410180832724.png",
     link: "http://wk8686.top/archives/zoteroepi91",
     title_link: "https://github.com/ChenglongMa/zoplicate",
+    downloadlink:"https://alist.wk8686.top/d/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/01%20zotero%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/01%20zotero_%E6%8F%92%E4%BB%B6%E5%90%88%E9%9B%86/01%20%E6%8F%92%E4%BB%B6-z7%20%E6%AD%A3%E5%BC%8F%E7%89%88/zoplicate%40chenglongma.com.xpi?sign=cybgmJU6VsJWnAByR-tEadi02V18Fgdp5mqa2eFMemM=:0",
     tags:["功能提升","其它内容"]
   }
   

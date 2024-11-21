@@ -3,6 +3,7 @@ import { inject } from "vue";
 import { NCard, NTag, NSpace, NButton, NIcon } from "naive-ui";
 import { LogInOutline as LogInIcon } from "@vicons/ionicons5";
 import { NButtonGroup } from "naive-ui";
+import download_BUTTON from "./download_BUTTON.vue";
 
 const filteredCards = inject("filteredCards"); // 确保注入正确
 
@@ -37,7 +38,7 @@ function handleClick(link) {
           </n-space>
         </template>
         <template #action>
-          <n-button-group class="flex justify-around pt-5 border-t-4 w-full">
+          <n-button-group class="action-file flex justify-around pt-5 border-t-4 w-full">
             <n-button ghost @click="handleClick(card.link)">
               <template #icon>
                 <n-icon><LogInIcon /></n-icon>
@@ -50,7 +51,9 @@ function handleClick(link) {
               </template>
               官方仓库
             </n-button>
+            <download_BUTTON @click="handleClick(card.downloadlink)" />
           </n-button-group>
+
         </template>
       </n-card>
     </div>
@@ -63,6 +66,12 @@ function handleClick(link) {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
 }
+div.n-card.n-card--bordered{
+border-radius: 10px;
+  color: #4B252C;
+}
+
+
 
 .card-list:hover {
   scale: 1.1;
