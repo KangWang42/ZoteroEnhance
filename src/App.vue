@@ -8,7 +8,7 @@ import WechatIcons from "./components/wechaticons.vue";
 import { NButtonGroup } from "naive-ui";
 import totop from "./components/totop.vue";
 import menulist from "./components/menulist.vue";
-
+import headerlist from "./components/headerlist.vue";
 
 // 唯一标签列表
 const uniqueTags = Array.from(new Set(cards.flatMap((card) => card.tags)));
@@ -19,7 +19,6 @@ const filteredCards = computed(() => {
   if (!selectedTag.value) return cards;
   return cards.filter((card) => card.tags.includes(selectedTag.value));
 });
-
 
 provide("filteredCards", filteredCards);
 
@@ -33,23 +32,18 @@ const navigate = () => {
 </script>
 
 <template>
-  <div >
+  <div>
     <totop />
-    <menulist class="mb-4"/>
+    <menulist class="mb-4" />
     <header>
       <WechatIcons />
-      <n-space class="mb-12   tagslist">
-        <n-button type="info" @click="navigate('https://wk8686.top')"
+      <n-space class="mb-12 tagslist  vertical-center">
+        <n-button  type="info" @click="navigate('https://wk8686.top')"
           >返回主页</n-button
         >
         <n-button type="info" @click="handleSelectTag(null)">显示所有</n-button>
-        <n-button
-          v-for="tag in uniqueTags"
-          :key="tag.id"
-          @click="handleSelectTag(tag)"
-        >
-          {{ tag }}
-        </n-button>
+        <headerlist :items="uniqueTags" @click="handleSelectTag"  />
+       
       </n-space>
     </header>
     <main>
@@ -61,5 +55,9 @@ const navigate = () => {
 
 
 <style scoped>
-
+.vertical-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 </style>
