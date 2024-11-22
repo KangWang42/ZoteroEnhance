@@ -1,3 +1,16 @@
+<style scoped>
+  .n-menu {
+    height: 100%;
+  }
+
+  /*设置menu的背景颜色和样式优雅*/
+  .n-menu{
+    background-color:antiquewhite;
+  }
+
+
+</style>
+
 <template>
     <n-split :default-size="0.8">
       <template #1>
@@ -10,7 +23,7 @@
       </template>
     </n-split>
   </template>
-  
+
   <script setup>
     import { NMenu,NSplit } from "naive-ui";
   import { defineComponent, h, ref } from "vue";

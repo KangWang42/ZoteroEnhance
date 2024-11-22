@@ -9,6 +9,9 @@ import { NButtonGroup } from "naive-ui";
 import totop from "./components/totop.vue";
 import menulist from "./components/menulist.vue";
 import headerlist from "./components/headerlist.vue";
+import loading from "./components/loading.vue";
+
+
 
 // 唯一标签列表
 const uniqueTags = Array.from(new Set(cards.flatMap((card) => card.tags)));
@@ -33,6 +36,7 @@ const navigate = () => {
 
 <template>
   <div>
+    <loading/>
     <totop />
     <menulist class="mb-4" />
     <header>
@@ -43,7 +47,6 @@ const navigate = () => {
         >
         <n-button type="info" @click="handleSelectTag(null)">显示所有</n-button>
         <headerlist :items="uniqueTags" @click="handleSelectTag"  />
-       
       </n-space>
     </header>
     <main>
@@ -59,5 +62,13 @@ const navigate = () => {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.typewriter {
+  position: absolute;
+  top: 10%;
+  right:15%;
+
+  opacity: 0.5;
 }
 </style>
