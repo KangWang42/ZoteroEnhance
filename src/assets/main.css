@@ -12,7 +12,11 @@ header{
   margin-left:10%;
 }
 
-
+@media(max-width:780px){
+  header{
+    margin-left:0%
+  }
+}
 
 body{
   background-color: #eaeaea;
